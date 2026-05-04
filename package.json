@@ -1,0 +1,6 @@
+{
+  "name": "agent-lira-bot-de-analisis-de-sentimiento-mors8632",
+  "version": "1.0.0",
+  "description": "Proyecto de Lira [Gen21]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
